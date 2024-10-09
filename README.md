@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Nelson Pradeep
+- 👀 I’m interested in Web devolopment
+- 🌱 I’m completed my Full stack development cource(MEAN STACK) and Developed a Strong Understanding of Both Front End and Back End Technologies.
+- 💞️ I’m looking For Intern Or a Full Time job On Front End which is helps to Build The Better Me. 
+- 📫 To reach me ...Email: nelsonpradeep@gmail.com
